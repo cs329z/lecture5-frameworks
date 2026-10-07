@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# tinycal data
+tinycal/events.json
+
+# scratch planning docs (not part of the course repo)
+planning/
+
+# LangChain LLM cache (like ~/.dspy_cache)
+.langchain_cache.db
+
+draft_*
+research_notes/
+reports/
